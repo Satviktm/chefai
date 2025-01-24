@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768627245297",
+    "project_id": "aichef-f1007",
+    "storage_bucket": "aichef-f1007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768627245297:android:f1ac0d917c5e8c66b7a950",
+        "android_client_info": {
+          "package_name": "com.aichef.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClBFNkxEcc7kv2xlIPOwPJBlW_ExnUpUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
